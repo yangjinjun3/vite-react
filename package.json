@@ -18,7 +18,7 @@
     "react-grid-layout": "^1.4.3",
     "react-infinite-scroll-component": "^6.1.0",
     "react-router-dom": "^6.9.0",
-    "swiper": "^11.0.5",
+    "swiper": "8.0.0",
     "yang-css": "^0.0.3-beta.4"
   },
   "devDependencies": {
